@@ -2,6 +2,7 @@
 #
 # Aşağıda örnek olarak bir test var. Yanına her fonksiyon için kendi testlerinizi ekleyin.
 # Çalıştırmak için bu klasörde:  python -m pytest -v
+# Hash değişimi için eklediğim satır
 
 import pytest
 
